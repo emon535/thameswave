@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name": "Jas Bindra",
+    "occupation": "Software Engineer",
+    "description": "I use code to help people smile",
+    "image": "logo.png",
+    "bio": "Welcome! I'm Jas, a dedicated software engineer and a proud graduate in Computer Science and Mathematics from the University of Bath. Today, I bring my passion for problem-solving and design to life as a freelance software developer, crafting bespoke apps and websites for a diverse range of clients.\nCreating, building, and perfecting software isn't just my profession—it's my calling. I truly believe in the transformative power of well-crafted digital tools, and I am committed to delivering solutions that elevate my clients' visions and enhance their digital experiences.\nBut my work extends beyond the realms of code and design. Inspired by my Sikh faith and the guiding principle of Seva—selfless service—I am driven to use my skills to benefit others. Whether it's helping businesses to flourish, aiding individuals to navigate their digital needs, or contributing to humanitarian causes, the heart of my work lies in serving others.\nJoin me on this journey as we shape the digital future, one line of code at a time.",
+    "contactmessage": "Let's work together. Get in touch.",
+    "email": "admin@strucha.com",
+    "phone": "",
+    "address": {
+      "street": "Bath",
+      "city": "London",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://jasbindra.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jasbindra/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jsbindra00",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jasbindra00?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Bath - UK",
+        "degree": "Bachelor's Degree, Computer Science and Mathematics",
+        "graduated": "December 2023",
+        "description": "Graduating with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "YourCodeClass",
+        "title": "Founder and Director",
+        "years": "May 2023 - Present",
+        "description": "Making coding accessible to all ages."
+      },
+      {
+        "company": "Bath Sikh Society",
+        "title": "Founder and Chair",
+        "years": "Feb 2022 - Present",
+        "description": "Built a thriving Sikh community in the city of Bath. When we have enough support and investment power, we will build a Gurdwara there."
+      },
+      {
+        "company": "Strucha Group",
+        "title": "Founder and Director",
+        "years": "Jan 2020 - Present",
+        "description": "Online e-commerce businesses. Physical sale of goods. Umbrella body."
+      },
+      {
+        "company": "Polylambda",
+        "title": "Founder, Director, Web Developer",
+        "years": "Sep 2022 - Present",
+        "description": "Changing the world with innovative software for people and companies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React JS",
+        "level": "100%"
+      },
+      {
+        "name": "React Native",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "2D game development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Official Anahad Kirtan Society Website",
+        "category": "",
+        "image": "anahad.png",
+        "url": "https://anahad.co.uk"
+      },
+      {
+        "title": "Offical NishkamSWAT iOS + Android apps",
+        "category": "",
+        "image": "swat_logo.jpg",
+        "url": "https://www.nishkamswat.com/"
+      },
+      {
+        "title": "Official SangatTV iOS + Android apps",
+        "category": "",
+        "image": "sangat_tv.png",
+        "url": "https://sangattelevision.org/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "2D Game Engine from SCRATCH in C++",
+        "category": "",
+        "image": "mario.webp",
+        "url": "https://github.com/jasbindra00/old-projects"
+      },
+      {
+        "title": "3D Game Terrain Generation",
+        "category": "",
+        "image": "terrain.png",
+        "url": "https://github.com/jasbindra00/3d-terrain-generation"
+      },
+      {
+        "title": "Backpropagation SMBGD Neural Net",
+        "category": "",
+        "image": "network.jpg",
+        "url": "https://github.com/jasbindra00/backprop-smgd-neural-network"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Working with Jas has been an enlightening experience. His ambition is contagious, and his commitment to excellence is unparalleled. His desire to constantly learn, adapt, and innovate is truly inspirational.",
+        "user": "Private Client"
+      },
+      {
+        "text": "Jas isn't just a software engineer. He's a visionary. He constantly strives to push boundaries, seeking out the most innovative solutions and aiming for the highest standards. His ambition isn't just about personal success, but about making a meaningful difference in the world.",
+        "user": "Rajun Singh Channa"
+      }
+    ]
+  }
+}
